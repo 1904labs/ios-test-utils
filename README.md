@@ -33,7 +33,7 @@ public var urlSessionMock: URLSession {
 ```
 
 ### Examples
-As an example, let's look at how we could test a view model making a `POST` login request to the networking layer. 
+As an example, let's look at how we could test a view model making a call to the networking layer. 
 
 Here's the view model in question:
 ```swift
